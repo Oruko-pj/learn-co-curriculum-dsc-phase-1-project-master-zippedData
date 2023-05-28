@@ -1,6 +1,8 @@
 # Microsoft MinuteVideo
 #### Resources: https://github.com/CatherineChelagat/Predictive-Time-Series-Model-Case-Study-NSE-Kenya-20-Share-Index/blob/main/Predictive%20Time%20Series%20Model%20.ipynb
 
+slide: file:///C:/Users/PC/Downloads/6%20Steps%20to.pdf
+
 ## Introduction 
 Creating unique and origial content has become crucial for the success of marketing campaigns across a wide range of businesses, both well-known and specialized. With the advent of the interest, reusing conetnt became easier, leading to the emergence of reposting. Reposting someone else's work and getting credit for it requires less effort than creating your own content.
 Original Content is content that is brand new that I/you created and that doesn't alreadry exist it includes: written, video, audio, live; but it has to be new and unique. Original content used to be the playground for big boys -Radio shows and TV. But when Youtube, TikTok, Instagram came into light and everybody with a video camera and smartphone has the capacity to produce excellent quality videos. Why not Microsoft?
