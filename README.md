@@ -1,7 +1,7 @@
 # Microsoft MinuteVideo
 #### Resources: https://github.com/CatherineChelagat/Predictive-Time-Series-Model-Case-Study-NSE-Kenya-20-Share-Index/blob/main/Predictive%20Time%20Series%20Model%20.ipynb
 
-slide: file:///C:/Users/PC/Downloads/6%20Steps%20to.pdf
+slide: https://github.com/Oruko-pj/learn-co-curriculum-dsc-phase-1-project-master-zippedData/blob/master/presentation.pdf
 
 ## Introduction 
 Creating unique and origial content has become crucial for the success of marketing campaigns across a wide range of businesses, both well-known and specialized. With the advent of the interest, reusing conetnt became easier, leading to the emergence of reposting. Reposting someone else's work and getting credit for it requires less effort than creating your own content.
